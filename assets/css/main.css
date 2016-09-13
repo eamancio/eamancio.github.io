@@ -2510,6 +2510,7 @@
 		position: fixed;
 		text-align: center;
 		width: 35%;
+		margin-bottom: -70px;
 	}
 
 		#footer .icons {
